@@ -1,0 +1,21 @@
+symbol,name,price,change,volume,market_cap,pe_ratio,dividend_yield,sector,industry
+AAPL,Apple Inc.,175.34,2.5,75000000,2750000000000,28.5,0.5,Technology,Consumer Electronics
+MSFT,Microsoft Corporation,330.12,1.8,45000000,2450000000000,32.1,0.8,Technology,Software
+GOOGL,Alphabet Inc.,140.56,-0.5,35000000,1750000000000,24.8,0.0,Technology,Internet
+AMZN,Amazon.com Inc.,170.25,3.2,60000000,1750000000000,60.3,0.0,Consumer Cyclical,Retail
+META,Meta Platforms Inc.,475.45,1.2,25000000,1200000000000,22.7,0.0,Technology,Social Media
+TSLA,Tesla Inc.,180.34,-2.1,80000000,575000000000,65.2,0.0,Consumer Cyclical,Automotive
+NVDA,NVIDIA Corporation,875.23,4.5,40000000,2200000000000,75.4,0.0,Technology,Semiconductors
+JPM,JPMorgan Chase & Co.,185.67,0.8,30000000,540000000000,11.2,2.3,Financial,Banking
+V,Visa Inc.,275.89,1.5,15000000,560000000000,32.8,0.7,Financial,Payment Services
+WMT,Walmart Inc.,60.45,0.3,40000000,435000000000,25.6,1.4,Consumer Defensive,Retail
+JNJ,Johnson & Johnson,155.67,-0.2,20000000,415000000000,25.3,2.9,Healthcare,Pharmaceuticals
+PG,Procter & Gamble Co.,160.78,0.5,15000000,380000000000,25.1,2.4,Consumer Defensive,Household Products
+MA,Mastercard Inc.,450.23,1.8,10000000,425000000000,35.6,0.5,Financial,Payment Services
+HD,Home Depot Inc.,350.45,-0.3,25000000,345000000000,22.3,2.1,Consumer Cyclical,Home Improvement
+BAC,Bank of America Corp.,35.67,0.4,45000000,285000000000,10.8,2.7,Financial,Banking
+KO,Coca-Cola Co.,60.34,0.2,20000000,260000000000,24.5,3.1,Consumer Defensive,Beverages
+PFE,Pfizer Inc.,28.45,-1.2,35000000,160000000000,12.3,3.8,Healthcare,Pharmaceuticals
+DIS,Walt Disney Co.,110.56,0.7,30000000,200000000000,35.4,0.3,Communication Services,Entertainment
+NFLX,Netflix Inc.,600.78,2.3,15000000,265000000000,45.6,0.0,Communication Services,Entertainment
+CRM,Salesforce Inc.,300.45,-0.8,20000000,290000000000,45.2,0.0,Technology,Software 
